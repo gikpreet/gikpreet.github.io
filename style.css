@@ -1,0 +1,12 @@
+h1 {color:navy;}
+h2 {color:green;}
+
+div {
+    padding-left: 30px;
+    line-height: 2.3;
+}
+
+details {
+    padding-left: 35px;
+    line-height: 2;
+}
