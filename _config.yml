@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: 전산쟁이 九甫씨의 기술 블로그 # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: HPC/GPU and AI # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   인공지능 시대를 지탱하는 핵심 기술을 다룹니다. HPC 인프라 구축부터 GPU 활용 방안, 최신 AI 기술 동향까지 복잡한 컴퓨팅 기술을 깊이 있게 풀어냅니다.
@@ -96,10 +96,10 @@ theme_mode: # [light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn: "https://chirpy-img.netlify.app"
+# cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/commons/avatar.jpg"
+avatar: "assets/img/me.png"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
