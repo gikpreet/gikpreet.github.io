@@ -1,8 +1,8 @@
 ---
 title: Introduction to AI Agent
-date: 2026-09-17 13:20:05 +/-0900
+date: 2026-09-17 13:20:05 +0900
 categories: [AI, AI Agent]
-tags: [ai_agent]     # TAG names should always be lowercase
+tags: [ai,agent]     # TAG names should always be lowercase
 ---
 
 # Introduction to AI Agent
