@@ -13,8 +13,8 @@ tags: [ai,agent]     # TAG names should always be lowercase
 
 이를 가장 간단하게 표현하면 다음과 같습니다.
 
-> [!IMPORTANT]
 > AI Agent = 목표를 이해하고, 판단하고, 도구를 사용하여 행동하는 AI
+{: .prompt-info }
 
 여기서 핵심은 **'답변'이 아니라 `행동(Action)'**입니다.
 
